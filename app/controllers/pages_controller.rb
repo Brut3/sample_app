@@ -16,4 +16,6 @@ class PagesController < ApplicationController
     @title = "Help"
     
   end
+
+
 end
